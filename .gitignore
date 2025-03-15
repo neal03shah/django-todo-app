@@ -1,0 +1,11 @@
+# Ignore database and migrations
+*.sqlite3
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+migrations/
+
+# Ignore environment files
+.env
+venv/
